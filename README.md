@@ -1,7 +1,6 @@
 # Restful-architecture-project---C-Sharp---Asp.Net---Windows-Service---WebSite
 A restful exchange server information from the database to an application and a website using web service. Moreover the server is running a windows service which complete and updates the information in the database
 
-Welcome to the Restful-architecture-project wiki!
 
 **Private project no code will be shared!**
 
