@@ -31,4 +31,4 @@ A restful exchange server information from the database to an application and a 
 
 ##  A Restful Server
 * Purpose: To implement this project, a server must be accessible and configurable. The server to host the database, website and web services. Furthermore it should run the Windows service that calculates and updates the data.
-* Tools used : IIS
+* Tools used : IIS 
